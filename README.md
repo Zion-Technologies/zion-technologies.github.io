@@ -1,1 +1,1 @@
-# zion-technologies.github.io
+# repository for company website
